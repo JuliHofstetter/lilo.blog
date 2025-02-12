@@ -19,8 +19,6 @@ Die Menschen am Rande der Gesellschaft treffen sich hier. Das Medina zeigt uns, 
 
 Wir sitzen zusammen an einem kleinen Tisch in einer WG. Mit ihrer Tasse Kaffee in der Hand, erzählt uns Michèle Stauffer von ihrer gemeinnützigen Arbeit bei Medina. Michele ist schon länger politisch aktiv und setzt sich für und warum es zu Gewalt kommen kann und was dies für einen Zusammenhang mit Sucht, Armut und Unterdrückung zu tun hat.
 
-
-
 #### **Wie kamst du auf die Idee, beim Medina zu arbeiten?**
 
 Ich sah auf Instagram einen Aufruf und da ich Soziale Arbeit studiere, wusste ich schon, dass ich etwas in diese Richtung machen möchte. Ich hatte auch Lust auf etwas Neues und gerade genug Zeit, daraufhin habe ich mich gemeldet und wurde eingearbeitet. 
