@@ -3,6 +3,7 @@ title = "Für eine Welt, in die viele Welten passen!"
 date = "2025-02-11"
 draft = false
 pinned = false
+image = "whatsapp-bild-2025-01-29-um-15.19.19_8a6f7e1f.jpg"
 description = "Die Menschen am Rande der Gesellschaft treffen sich hier. Das Medina zeigt uns, mit ihrer Arbeit, einen Weg zu einer solidarischen Gesellschaft."
 +++
 `Enya Sauser und Juli Hofstetter`
