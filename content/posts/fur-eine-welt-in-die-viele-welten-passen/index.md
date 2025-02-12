@@ -5,6 +5,7 @@ draft = false
 pinned = false
 image = "whatsapp-bild-2025-01-29-um-15.19.19_8a6f7e1f.jpg"
 description = "Die Menschen am Rande der Gesellschaft treffen sich hier. Das Medina zeigt uns, mit ihrer Arbeit, einen Weg zu einer solidarischen Gesellschaft."
+footnotes = "\n\n**Infokasten**\n\nDas Medina ist ein Gemeinschaftszentrum, welches sich auf der Schützenmatte in Bern befindet. und für Menschen, die am Rande der Gesellschaft leben, als Treffpunkt und Anlaufstelle dient, um Kontakte zu knüpfen. Jeden Donnerstag und Freitag Abend kann man dort kostenlos von 18:00 bis 22:00 zusammen kochen und essen. Das Medina verfolgt keine kommerziellen Zwecke und es ist nicht gewinnorientiert. Es hat 2020 den Sozialpreis der Stadt Bern gewonnen."
 +++
 `Enya Sauser und Juli Hofstetter`
 
