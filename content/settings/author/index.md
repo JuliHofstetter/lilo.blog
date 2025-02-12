@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Juli Maria"
-image = "/img/default-author.jpg"
+image = "/media/aaia5007.jpg"
 url = "/about/"
 +++
