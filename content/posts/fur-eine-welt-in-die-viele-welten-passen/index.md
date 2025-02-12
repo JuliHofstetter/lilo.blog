@@ -11,9 +11,7 @@ footnotes = ""
 
 Die Menschen am Rande der Gesellschaft treffen sich hier. Das Medina zeigt uns, mit ihrer Arbeit, einen Weg zu einer solidarischen Gesellschaft.
 
-`{{</lead>}}`
-
-``
+{{</lead>}}
 
 `Enya Sauser und Juli Hofstetter`
 
