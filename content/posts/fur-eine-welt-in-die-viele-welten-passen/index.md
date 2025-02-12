@@ -13,6 +13,8 @@ Die Menschen am Rande der Gesellschaft treffen sich hier. Das Medina zeigt uns, 
 
 {{</lead>}}
 
+
+
 `Enya Sauser und Juli Hofstetter`
 
 ![](whatsapp-bild-2025-01-29-um-15.19.19_8a6f7e1f.jpg "Michèle ist 23 Jahre alt und studiert Soziale Arbeit. Sie sitzt in ihrer WG und erzählt uns von ihrer Arbeit im Medina.")
