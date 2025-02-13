@@ -17,7 +17,7 @@ Die Menschen am Rande der Gesellschaft treffen sich hier. Das Medina zeigt uns, 
 
 ![Michèle ist 23 Jahre alt und studiert Soziale Arbeit. Sie sitzt in ihrer WG und erzählt uns von ihrer Arbeit im Medina.](whatsapp-bild-2025-01-29-um-15.19.19_8a6f7e1f.jpg "Michèle ist 23 Jahre alt und studiert Soziale Arbeit. Sie sitzt in ihrer WG und erzählt uns von ihrer Arbeit im Medina.")
 
-Wir sitzen zusammen an einem kleinen Tisch in einer WG. Mit ihrer Tasse Kaffee in der Hand, erzählt uns Michèle Stauffer von ihrer gemeinnützigen Arbeit bei Medina. Michele ist schon länger politisch aktiv und setzt sich für und warum es zu Gewalt kommen kann und was dies für einen Zusammenhang mit Sucht, Armut und Unterdrückung zu tun hat.
+Wir sitzen zusammen an einem kleinen Tisch in einer WG. Mit ihrer Tasse Kaffee in der Hand, erzählt uns Michèle Stauffer von ihrer gemeinnützigen Arbeit bei Medina. Michele ist schon länger politisch aktiv und setzt sich für eine gerechtere Welt ein. Sie erzählt uns davon, wie und warum es zu Gewalt kommen kann und was dies für einen Zusammenhang mit Sucht, Armut und Unterdrückung zu tun hat.
 
 #### **Wie kamst du auf die Idee, beim Medina zu arbeiten?**
 
